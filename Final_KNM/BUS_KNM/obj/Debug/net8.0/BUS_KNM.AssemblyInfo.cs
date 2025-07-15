@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BUS_KNM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b0973e321af4a6ba9ebff0e192048c80339463c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BUS_KNM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BUS_KNM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DTO_KNM\DTO_KNM.csproj" />
+    <ProjectReference Include="..\UTIL_KNM\UTIL_KNM.csproj" />
   </ItemGroup>
 
 </Project>

@@ -11,7 +11,7 @@ namespace DAL_QLVT
 {
     public class DBUtil
     {
-        public static string connString = @"Data Source=THE1712\SQLEXPRESS;Initial Catalog=knm_BanHang;Integrated Security=True;Trust Server Certificate=True";
+        public static string connString = @"Data Source=DESKTOP-NPO91IS\SQLEXPRESS;Initial Catalog=knm_BanHang;Integrated Security=True;Trust Server Certificate=True";
 
         public static SqlCommand GetCommand(string sql, List<object> args, CommandType cmdType)
         {

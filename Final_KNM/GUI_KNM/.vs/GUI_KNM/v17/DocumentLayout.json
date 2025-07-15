@@ -1,31 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\GUI_KNM\\",
+  "WorkspaceRootPath": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\GUI_KNM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D013400-326E-415B-A5E2-C31C9E8DA7DA}|..\\UTIL_KNM\\UTIL_KNM.csproj|c:\\users\\admin\\desktop\\knm\\final_knm\\util_knm\\authutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19CE805F-44BA-401B-90F5-9B04EEB1E45D}|..\\DAL_KNM\\DAL_KNM.csproj|d:\\work\\ky6\\block_2\\knmthe\\duanphonggym_t2m\\final_knm\\dal_knm\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19CE805F-44BA-401B-90F5-9B04EEB1E45D}|..\\DAL_KNM\\DAL_KNM.csproj|c:\\users\\admin\\desktop\\knm\\final_knm\\dal_knm\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19CE805F-44BA-401B-90F5-9B04EEB1E45D}|..\\DAL_KNM\\DAL_KNM.csproj|d:\\work\\ky6\\block_2\\knmthe\\duanphonggym_t2m\\final_knm\\dal_knm\\dalchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D013400-326E-415B-A5E2-C31C9E8DA7DA}|..\\UTIL_KNM\\UTIL_KNM.csproj|c:\\users\\admin\\desktop\\knm\\final_knm\\util_knm\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19CE805F-44BA-401B-90F5-9B04EEB1E45D}|..\\DAL_KNM\\DAL_KNM.csproj|d:\\work\\ky6\\block_2\\knmthe\\duanphonggym_t2m\\final_knm\\dal_knm\\dalhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D013400-326E-415B-A5E2-C31C9E8DA7DA}|..\\UTIL_KNM\\UTIL_KNM.csproj|c:\\users\\admin\\desktop\\knm\\final_knm\\util_knm\\helperutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{667BC1F7-9E55-4AFA-96FD-7875237DC540}|..\\DTO_KNM\\DTO_KNM.csproj|d:\\work\\ky6\\block_2\\knmthe\\duanphonggym_t2m\\final_knm\\dto_knm\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{667BC1F7-9E55-4AFA-96FD-7875237DC540}|..\\DTO_KNM\\DTO_KNM.csproj|c:\\users\\admin\\desktop\\knm\\final_knm\\dto_knm\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19CE805F-44BA-401B-90F5-9B04EEB1E45D}|..\\DAL_KNM\\DAL_KNM.csproj|d:\\work\\ky6\\block_2\\knmthe\\duanphonggym_t2m\\final_knm\\dal_knm\\dallichsucheckin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{668EA6EA-4B7A-4835-9E7D-9C209D7DEE25}|..\\BUS_KNM\\BUS_KNM.csproj|c:\\users\\admin\\desktop\\knm\\final_knm\\bus_knm\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19CE805F-44BA-401B-90F5-9B04EEB1E45D}|..\\DAL_KNM\\DAL_KNM.csproj|d:\\work\\ky6\\block_2\\knmthe\\duanphonggym_t2m\\final_knm\\dal_knm\\dalkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19CE805F-44BA-401B-90F5-9B04EEB1E45D}|..\\DAL_KNM\\DAL_KNM.csproj|c:\\users\\admin\\desktop\\knm\\final_knm\\dal_knm\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19CE805F-44BA-401B-90F5-9B04EEB1E45D}|..\\DAL_KNM\\DAL_KNM.csproj|d:\\work\\ky6\\block_2\\knmthe\\duanphonggym_t2m\\final_knm\\dal_knm\\dalsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FF542C6-F513-4627-8E81-419C8C880615}|GUI_KNM.csproj|c:\\users\\admin\\desktop\\knm\\final_knm\\gui_knm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9FF542C6-F513-4627-8E81-419C8C880615}|GUI_KNM.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{19CE805F-44BA-401B-90F5-9B04EEB1E45D}|..\\DAL_KNM\\DAL_KNM.csproj|d:\\work\\ky6\\block_2\\knmthe\\duanphonggym_t2m\\final_knm\\dal_knm\\dalnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667BC1F7-9E55-4AFA-96FD-7875237DC540}|..\\DTO_KNM\\DTO_KNM.csproj|d:\\work\\ky6\\block_2\\knmthe\\duanphonggym_t2m\\final_knm\\dto_knm\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667BC1F7-9E55-4AFA-96FD-7875237DC540}|..\\DTO_KNM\\DTO_KNM.csproj|d:\\work\\ky6\\block_2\\knmthe\\duanphonggym_t2m\\final_knm\\dto_knm\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667BC1F7-9E55-4AFA-96FD-7875237DC540}|..\\DTO_KNM\\DTO_KNM.csproj|d:\\work\\ky6\\block_2\\knmthe\\duanphonggym_t2m\\final_knm\\dto_knm\\lichsucheckin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667BC1F7-9E55-4AFA-96FD-7875237DC540}|..\\DTO_KNM\\DTO_KNM.csproj|d:\\work\\ky6\\block_2\\knmthe\\duanphonggym_t2m\\final_knm\\dto_knm\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667BC1F7-9E55-4AFA-96FD-7875237DC540}|..\\DTO_KNM\\DTO_KNM.csproj|d:\\work\\ky6\\block_2\\knmthe\\duanphonggym_t2m\\final_knm\\dto_knm\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,110 +49,176 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DBUtil.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\DAL_KNM\\DBUtil.cs",
-              "RelativeDocumentMoniker": "..\\DAL_KNM\\DBUtil.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\DAL_KNM\\DBUtil.cs",
-              "RelativeToolTip": "..\\DAL_KNM\\DBUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:20:05.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HelperUtil.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\UTIL_KNM\\HelperUtil.cs",
-              "RelativeDocumentMoniker": "..\\UTIL_KNM\\HelperUtil.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\UTIL_KNM\\HelperUtil.cs",
-              "RelativeToolTip": "..\\UTIL_KNM\\HelperUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:19:32.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthUtil.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\UTIL_KNM\\AuthUtil.cs",
-              "RelativeDocumentMoniker": "..\\UTIL_KNM\\AuthUtil.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\UTIL_KNM\\AuthUtil.cs",
-              "RelativeToolTip": "..\\UTIL_KNM\\AuthUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DAL_KNM\\DBUtil.cs",
+              "RelativeDocumentMoniker": "..\\DAL_KNM\\DBUtil.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DAL_KNM\\DBUtil.cs",
+              "RelativeToolTip": "..\\DAL_KNM\\DBUtil.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:18:34.416Z",
+              "WhenOpened": "2025-07-15T15:15:29.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DAL_KNM\\DALChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "..\\DAL_KNM\\DALChiTietHoaDon.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DAL_KNM\\DALChiTietHoaDon.cs",
+              "RelativeToolTip": "..\\DAL_KNM\\DALChiTietHoaDon.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAawI8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:13:06.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\UTIL_KNM\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\UTIL_KNM\\Class1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\UTIL_KNM\\Class1.cs",
-              "RelativeToolTip": "..\\UTIL_KNM\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DALHoaDon.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DAL_KNM\\DALHoaDon.cs",
+              "RelativeDocumentMoniker": "..\\DAL_KNM\\DALHoaDon.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DAL_KNM\\DALHoaDon.cs",
+              "RelativeToolTip": "..\\DAL_KNM\\DALHoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:16:07.256Z",
+              "WhenOpened": "2025-07-15T15:03:40.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\DTO_KNM\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\DTO_KNM\\Class1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\DTO_KNM\\Class1.cs",
-              "RelativeToolTip": "..\\DTO_KNM\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DALLichSuCheckin.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DAL_KNM\\DALLichSuCheckin.cs",
+              "RelativeDocumentMoniker": "..\\DAL_KNM\\DALLichSuCheckin.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DAL_KNM\\DALLichSuCheckin.cs",
+              "RelativeToolTip": "..\\DAL_KNM\\DALLichSuCheckin.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwJwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:15:52.95Z",
+              "WhenOpened": "2025-07-15T15:03:18.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\BUS_KNM\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\BUS_KNM\\Class1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\BUS_KNM\\Class1.cs",
-              "RelativeToolTip": "..\\BUS_KNM\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DALKhachHang.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DAL_KNM\\DALKhachHang.cs",
+              "RelativeDocumentMoniker": "..\\DAL_KNM\\DALKhachHang.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DAL_KNM\\DALKhachHang.cs",
+              "RelativeToolTip": "..\\DAL_KNM\\DALKhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:15:42.631Z",
+              "WhenOpened": "2025-07-15T15:01:58.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\DAL_KNM\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\DAL_KNM\\Class1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\DAL_KNM\\Class1.cs",
-              "RelativeToolTip": "..\\DAL_KNM\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DALSanPham.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DAL_KNM\\DALSanPham.cs",
+              "RelativeDocumentMoniker": "..\\DAL_KNM\\DALSanPham.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DAL_KNM\\DALSanPham.cs",
+              "RelativeToolTip": "..\\DAL_KNM\\DALSanPham.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:15:28.376Z",
+              "WhenOpened": "2025-07-15T15:01:40.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\GUI_KNM\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\KNM\\Final_KNM\\GUI_KNM\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "DALNhanVien.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DAL_KNM\\DALNhanVien.cs",
+              "RelativeDocumentMoniker": "..\\DAL_KNM\\DALNhanVien.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DAL_KNM\\DALNhanVien.cs",
+              "RelativeToolTip": "..\\DAL_KNM\\DALNhanVien.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:15:02.631Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-15T14:48:34.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DTO_KNM\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "..\\DTO_KNM\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DTO_KNM\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "..\\DTO_KNM\\ChiTietHoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:47:11.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DTO_KNM\\HoaDon.cs",
+              "RelativeDocumentMoniker": "..\\DTO_KNM\\HoaDon.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DTO_KNM\\HoaDon.cs",
+              "RelativeToolTip": "..\\DTO_KNM\\HoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:45:43.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LichSuCheckin.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DTO_KNM\\LichSuCheckin.cs",
+              "RelativeDocumentMoniker": "..\\DTO_KNM\\LichSuCheckin.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DTO_KNM\\LichSuCheckin.cs",
+              "RelativeToolTip": "..\\DTO_KNM\\LichSuCheckin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:44:53.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DTO_KNM\\KhachHang.cs",
+              "RelativeDocumentMoniker": "..\\DTO_KNM\\KhachHang.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DTO_KNM\\KhachHang.cs",
+              "RelativeToolTip": "..\\DTO_KNM\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:41:22.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DTO_KNM\\SanPham.cs",
+              "RelativeDocumentMoniker": "..\\DTO_KNM\\SanPham.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DTO_KNM\\SanPham.cs",
+              "RelativeToolTip": "..\\DTO_KNM\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:39:34.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DTO_KNM\\NhanVien.cs",
+              "RelativeDocumentMoniker": "..\\DTO_KNM\\NhanVien.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\KNMThe\\DuAnPhongGym_T2M\\Final_KNM\\DTO_KNM\\NhanVien.cs",
+              "RelativeToolTip": "..\\DTO_KNM\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:35:29.301Z",
+              "EditorCaption": ""
             }
           ]
         }
